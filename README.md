@@ -65,7 +65,7 @@ revenue_gain = 44 * $1,745  # $76,774 (avg. deposit value)
 ```bash
 .
 ├── data/                   # Raw datasets
-├── analysis/               # analysis
+├── scripts/                # python script
 ├── reports/                # Text reports
 │   └── ab_test_report.txt  # Full numerical report
 ├── visuals/                # Charts and graphics
