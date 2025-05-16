@@ -1,0 +1,22 @@
+
+A/B TESTING REPORT - BANK MARKETING CAMPAIGN
+Date: 2025-05-16
+
+1. TEST OVERVIEW
+- Test Groups: A (Control) vs B (Treatment)
+- Total Samples: 17,544
+- Group A Samples: 8,811
+- Group B Samples: 8,733
+
+2. KEY RESULTS
+- Conversion Rate (A): 14.38%
+- Conversion Rate (B): 14.82%
+- Uplift: 3.04%
+- Statistical Significance (p-value): 0.2059
+
+3. BUSINESS IMPACT
+- Additional Conversions per 10k: 768
+- Potential Revenue Gain: $76,774
+
+4. RECOMMENDATION
+No significant difference found
