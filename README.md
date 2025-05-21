@@ -1,6 +1,6 @@
 # 📈 A/B Testing Analysis: Bank Marketing Campaign
 
-![Age Distribution](visuals/age_distribution.png)  
+![Age Distribution](visuals/BankMarketingCampaign.png)  
 *Age distribution across test groups*
 
 ## 🌟 Key Insights
